@@ -14,5 +14,6 @@ h3 {
     display: inline-block;
     width: 0;
     height: 0;
+    border: black;
     background-color: #5adada;
 }
